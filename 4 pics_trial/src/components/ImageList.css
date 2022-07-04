@@ -1,0 +1,12 @@
+.image-list {
+    display: grid;
+        /* grid-template-cols create a set number of cols. auto-fill allows CSS to auto decide how many cols. each col is at min 250px wide and 1fr (1fr is about the maximum number of space, which causes each col is equally sized) of space */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 0 10px;
+    /* grid-auto-rows: to tell how tall each row gonna be */
+    grid-auto-rows: 10px;
+}
+
+.image-list img {
+    width: 250px;
+}

@@ -1,0 +1,66 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "My stream is the greatest!",
+      "id": 1
+    },
+    {
+      "title": "My Stream 2",
+      "description": "Other stream",
+      "id": 2
+    },
+    {
+      "title": "Hello",
+      "description": "123",
+      "id": 3
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "This was made by me!",
+      "userId": "100055620482568214675",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "THIS CHANGE WAS MADE BY A PATCH REQUEST.",
+      "userId": "100055620482568214675",
+      "id": 6
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This is about refactoring!!!",
+      "id": 7
+    },
+    {
+      "title": "Lollapalooza",
+      "description": "Hello123",
+      "userId": "100055620482568214675",
+      "id": 8
+    },
+    {
+      "title": "boomz",
+      "description": "123",
+      "userId": "100055620482568214675",
+      "id": 9
+    },
+    {
+      "title": "waefwefa",
+      "description": "aergargaga",
+      "userId": "100055620482568214675",
+      "id": 10
+    },
+    {
+      "title": "ewragferg",
+      "description": "aw4etq34t byt",
+      "userId": "100055620482568214675",
+      "id": 11
+    },
+    {
+      "title": "34qq3g4q3",
+      "description": "q3fq34t",
+      "userId": "100055620482568214675",
+      "id": 12
+    }
+  ]
+}
